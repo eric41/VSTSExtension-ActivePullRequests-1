@@ -37,6 +37,7 @@ h1 {
 }
 .table-row td .user-avatar {
     width: 24px;
+    height: 24px;
     border-radius: 100%;
     display: block;
 }
